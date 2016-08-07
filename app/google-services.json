@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "884035535973",
+    "firebase_url": "https://testfirebase-e8666.firebaseio.com",
+    "project_id": "testfirebase-e8666",
+    "storage_bucket": "testfirebase-e8666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884035535973:android:987f087a58a2d6ca",
+        "android_client_info": {
+          "package_name": "com.learner.androidrestfulwsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884035535973-f87akltpi39q61u5ibqk75csobcur2lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkYVTze7H7YrACVZjdenmEjN1RcQoy0vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
